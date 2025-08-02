@@ -19,7 +19,7 @@ const DoctorProfilePage: React.FC = () => {
   useEffect(() => {
     const fetchDoctor = async () => {
       try {
-        const response = await fetch(`http://localhost:5000/api/doctors/${id}`);
+        const response = await fetch(`https://niroggyan-1.onrender.com/api/doctors/${id}`);
         if (!response.ok) {
           throw new Error('Doctor not found');
         }
