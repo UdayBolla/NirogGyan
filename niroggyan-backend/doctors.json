@@ -1,0 +1,150 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Sarah Johnson",
+    "specialization": "Cardiologist",
+    "image": "https://randomuser.me/api/portraits/women/1.jpg",
+    "availabilityStatus": "Available Today",
+    "details": "Dr. Johnson is a highly-experienced cardiologist with over 15 years of practice, specializing in cardiovascular health and disease prevention.",
+    "schedule": [
+      {
+        "date": "2025-08-05",
+        "times": ["09:00 AM", "10:00 AM", "11:00 AM", "02:00 PM"]
+      },
+      {
+        "date": "2025-08-06",
+        "times": ["09:00 AM", "10:00 AM"]
+      },
+      {
+        "date": "2025-08-07",
+        "times": ["10:00 AM", "11:00 AM"]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Dr. Alex Chen",
+    "specialization": "Dermatologist",
+    "image": "https://randomuser.me/api/portraits/men/2.jpg",
+    "availabilityStatus": "Fully Booked",
+    "details": "Dr. Chen specializes in various skin conditions, cosmetic procedures, and general dermatological care. He is currently fully booked for this week.",
+    "schedule": []
+  },
+  {
+    "id": "3",
+    "name": "Dr. Emily Davis",
+    "specialization": "Pediatrician",
+    "image": "https://randomuser.me/api/portraits/women/3.jpg",
+    "availabilityStatus": "Available Today",
+    "details": "Dr. Davis is a compassionate pediatrician dedicated to children's health, from infancy through adolescence. She is accepting new patients.",
+    "schedule": [
+      {
+        "date": "2025-08-05",
+        "times": ["03:00 PM", "04:00 PM", "05:00 PM"]
+      },
+      {
+        "date": "2025-08-08",
+        "times": ["09:30 AM", "11:00 AM"]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Dr. Michael Brown",
+    "specialization": "Orthopedic Surgeon",
+    "image": "https://randomuser.me/api/portraits/men/4.jpg",
+    "availabilityStatus": "On Leave",
+    "details": "Dr. Brown is an expert in orthopedic surgery, focusing on sports injuries and joint replacements. He is currently on medical leave until further notice.",
+    "schedule": []
+  },
+  {
+    "id": "5",
+    "name": "Dr. Jessica White",
+    "specialization": "General Practitioner",
+    "image": "https://randomuser.me/api/portraits/women/5.jpg",
+    "availabilityStatus": "Available Today",
+    "details": "Dr. White provides comprehensive general medical care for individuals and families. She has a holistic approach to health and wellness.",
+    "schedule": [
+      {
+        "date": "2025-08-05",
+        "times": ["09:00 AM", "10:00 AM", "11:00 AM", "01:00 PM"]
+      },
+      {
+        "date": "2025-08-06",
+        "times": ["11:00 AM", "02:00 PM", "03:00 PM"]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Dr. Robert Green",
+    "specialization": "Neurologist",
+    "image": "https://randomuser.me/api/portraits/men/6.jpg",
+    "availabilityStatus": "Fully Booked",
+    "details": "Dr. Green specializes in the diagnosis and treatment of disorders of the nervous system. He has a long waiting list and is not accepting new appointments at this time.",
+    "schedule": []
+  },
+  {
+    "id": "7",
+    "name": "Dr. Laura King",
+    "specialization": "Ophthalmologist",
+    "image": "https://randomuser.me/api/portraits/women/7.jpg",
+    "availabilityStatus": "Available Today",
+    "details": "Dr. King is a leading ophthalmologist focusing on eye health, vision care, and corrective eye surgeries. Her clinic is open for limited appointments.",
+    "schedule": [
+      {
+        "date": "2025-08-05",
+        "times": ["09:30 AM", "11:30 AM", "02:30 PM"]
+      },
+      {
+        "date": "2025-08-09",
+        "times": ["10:00 AM", "11:00 AM"]
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Dr. Daniel Taylor",
+    "specialization": "Psychiatrist",
+    "image": "https://randomuser.me/api/portraits/men/8.jpg",
+    "availabilityStatus": "Available Today",
+    "details": "Dr. Taylor provides psychiatric evaluations and therapy for a wide range of mental health conditions, with a focus on a patient-centered approach.",
+    "schedule": [
+      {
+        "date": "2025-08-05",
+        "times": ["02:00 PM", "03:00 PM", "04:00 PM"]
+      },
+      {
+        "date": "2025-08-10",
+        "times": ["11:00 AM", "01:00 PM"]
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Dr. Patricia Hall",
+    "specialization": "Oncologist",
+    "image": "https://randomuser.me/api/portraits/women/9.jpg",
+    "availabilityStatus": "Fully Booked",
+    "details": "Dr. Hall is an oncologist specializing in cancer treatment and management. Her schedule is currently full, but new appointment slots may open up soon.",
+    "schedule": []
+  },
+  {
+    "id": "10",
+    "name": "Dr. James Wilson",
+    "specialization": "Dentist",
+    "image": "https://randomuser.me/api/portraits/men/10.jpg",
+    "availabilityStatus": "Available Today",
+    "details": "Dr. Wilson is a skilled dentist providing general dentistry, preventative care, and cosmetic dental procedures to ensure healthy smiles for all his patients.",
+    "schedule": [
+      {
+        "date": "2025-08-05",
+        "times": ["09:00 AM", "10:30 AM", "01:00 PM"]
+      },
+      {
+        "date": "2025-08-07",
+        "times": ["09:00 AM", "10:00 AM", "11:00 AM", "02:00 PM"]
+      }
+    ]
+  }
+]
