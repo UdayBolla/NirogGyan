@@ -17,7 +17,7 @@ const LandingPage: React.FC = () => {
   useEffect(() => {
     const fetchDoctors = async () => {
       try {
-        const response = await fetch('http://localhost:5000/api/doctors');
+        const response = await fetch('https://niroggyan-1.onrender.com/api/doctors');
         if (!response.ok) {
           throw new Error('Failed to fetch doctors');
         }
